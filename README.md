@@ -1,6 +1,9 @@
-### Hi there, I am Utkarsh TREHAN👋
+### Hi there, I am Utkarsh TREHAN👋  
 
-![https://forthebadge.com/images/badges/works-on-my-machine.svg](image)
+
+
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)  
+ 
 
 ## I am a Developer 👨🏻‍💻
 
