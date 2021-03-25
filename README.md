@@ -5,7 +5,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)  
  
 
-## I am an Developer and Researcher capable of solving tough business challenges.👨🏻‍💻
+## I am a Developer and Researcher capable of solving tough business challenges.👨🏻‍💻
 
 - 🔭 I’m currently pursuing my Master's Degree in Data Science and Engineering @ [EURECOM](https://www.eurecom.fr/) 
 - 🌱 I’m currently learning everything 🤖
