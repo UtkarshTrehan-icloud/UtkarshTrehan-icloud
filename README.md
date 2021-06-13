@@ -11,3 +11,6 @@
 - 🌱 I’m currently learning everything 🤖
 - 👯 I’m currently looking for internship for my master thesis. 
 - ⚡ Fun fact: I like UI designing 
+
+## Kaggle
+[](https://www.kaggle.com/utkarshtrehan)
