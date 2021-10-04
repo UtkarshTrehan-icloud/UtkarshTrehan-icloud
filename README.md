@@ -10,7 +10,7 @@
 - 🔭 I’m currently pursuing my Master's Degree in Data Science and Engineering @ [EURECOM](https://www.eurecom.fr/) 
 - 🌱 I’m currently learning everything 🤖
 - 👯 I’m currently looking for internship for my master thesis. 
-- ⚡ Fun fact: I like UI designing 
+- ⚡ Fun fact: I like graphic and video designing 
 
 ## Kaggle
 [https://www.kaggle.com/utkarshtrehan](https://www.kaggle.com/utkarshtrehan)
