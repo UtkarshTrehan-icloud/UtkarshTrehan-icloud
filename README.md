@@ -7,7 +7,7 @@
 
 ## I am a developer and researcher capable of solving tough business challenges.👨🏻‍💻
 
-- 🔭 I’m currently pursuing my Master's Degree in Data Science and Engineering @ [EURECOM](https://www.eurecom.fr/) 
+- 🔭 I’m currently working as Data Science Engineer(https://www.eurecom.fr/) 
 - 🌱 I’m currently learning everything 🤖
 - 👯 I’m currently looking for new challenging opportunities. 
 - ⚡ Fun fact: I like cooking. 
